@@ -22,10 +22,10 @@ __holibay__ provides  __profile__ and __Portfolio__ of the places to the tourist
 
 * The best __places__ to visit 
 
-* Most __popular food__ of the place 
+* The Most __popular food__ of the place 
 
 * __Special events__  and many more useful information
-   to the travellers
+   to the travellers about the location.
 
  One stop place for the travellers
 So now the __travellers don’t have to ask others__ what to do where to go what is the must try food and must visit sites __.__ 
@@ -47,7 +47,7 @@ holibay can be considereed as an instagram page for a city
 
 ## Project Video Link ##
 https://www.loom.com/share/b674c3bc27c94028936c5fff8b854ba6
-## 🔗 Our Crew
+## 🔗 Meet the Team
  **1. Jasnoor maan** (_Team Leader_)
 
 
