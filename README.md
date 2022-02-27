@@ -42,7 +42,8 @@ So now the __travellers don’t have to ask others__ what to do where to go what
 
  **Is Freshers -** True  
 
-
+## Project Video Link ##
+https://www.loom.com/share/b674c3bc27c94028936c5fff8b854ba6
 ## 🔗 Meet the Team
  **1. Jasnoor maan** (_Team Leader_)
 
