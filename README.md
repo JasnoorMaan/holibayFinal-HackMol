@@ -81,3 +81,10 @@ https://www.loom.com/share/b674c3bc27c94028936c5fff8b854ba6
 Team Contribution record in this repo:
  https://github.com/JasnoorMaan/holibay
  
+ ![frontpage2](https://user-images.githubusercontent.com/96404014/155899071-089cc42e-5456-4e53-855d-9d026bc341db.png)
+![Lafinal](https://user-images.githubusercontent.com/96404014/155899091-4868b84c-c8be-4473-bd58-3ad8d978796b.png)
+![supabase auth](https://user-images.githubusercontent.com/96404014/155899096-3b52ad5a-d77a-468c-8916-85194dcd9a87.png)
+![mumbaifinal](https://user-images.githubusercontent.com/96404014/155899105-da487f90-b4ba-4dcc-a99b-2bf5c93bc837.png)
+ ![map](https://user-images.githubusercontent.com/96404014/155899035-9e0c4646-e9fd-4dac-83ce-42c87dba3ad4.png)
+
+ 
