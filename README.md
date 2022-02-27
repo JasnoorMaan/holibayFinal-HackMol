@@ -1,3 +1,8 @@
+
+##  Team Details 
+ **Team Name -** (Dev)Das
+
+ **Is Freshers -** True  
 # holibay
 __Stepping foot in a strange city might be stessfull__
 
@@ -37,10 +42,7 @@ So now the __travellers don’t have to ask others__ what to do where to go what
 
 * Lottie Animations
 
-##  Team Details 
- **Team Name -** (Dev)Das
 
- **Is Freshers -** True  
 
 ## Project Video Link ##
 https://www.loom.com/share/b674c3bc27c94028936c5fff8b854ba6
