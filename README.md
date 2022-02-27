@@ -47,7 +47,7 @@ holibay can be considereed as an instagram page for a city
 
 ## Project Video Link ##
 https://www.loom.com/share/b674c3bc27c94028936c5fff8b854ba6
-## 🔗 Meet the Team
+## 🔗 Our Crew
  **1. Jasnoor maan** (_Team Leader_)
 
 
