@@ -47,6 +47,8 @@ __holibay__ provides  __profile__ and __Portfolio__ of the places to the tourist
  One stop place for the travellers
 So now the __travellers don’t have to ask others__ what to do where to go what is the must try food and must visit sites __.__ 
 
+It can be a CRED of tourism industry.
+
 ## Website ##
 https://621b9a08ad4666e13a8cc973--goofy-bohr-6cd964.netlify.app/index.html
 
